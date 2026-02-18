@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "442+az3KJsQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MI PC\\Desktop\\ALEJO\\UNIVERSIDAD\\PROGRAMACION WEB\\PracticaGit\\PracticaGit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MI PC\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.3\\microsoft.aspnetcore.app.internal.assets.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
